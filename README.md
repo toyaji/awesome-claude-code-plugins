@@ -262,6 +262,7 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 - [skill-auto-installer](./plugins/skill-auto-installer)
 - [tldr](./plugins/tldr)
 - [Imagine](https://github.com/freestyler-arb/imagine-gemini-for-claude-codex) - Brings Google Gemini into Claude Code & Codex: delegate reasoning, independent code review, deep research, and automatic prompt-engineering. Runs on your Google AI Pro subscription, not your agent's tokens.
+- [anti-stuck](https://github.com/toyaji/anti-stuck) - Keeps Claude Code from waiting forever: hard time limits on every Bash call, forced reporting after long or background work, a background-work ledger and subagent time budgets. Marketplace: `claude plugin marketplace add toyaji/anti-stuck`.
 
 ### Documentation
 - [analyze-codebase](./plugins/analyze-codebase)
